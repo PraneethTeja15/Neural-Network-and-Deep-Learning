@@ -1,4 +1,7 @@
 # Neural-Network-and-Deep-Learning
+Praneeth Teja J
+700781935
+
 Python implementation for CS5720 Home Assignment 1 covering TensorFlow tensor manipulation, loss functions, optimizer comparison, and TensorBoard.
 This repository contains the Python code for the programming section of CS5720: Neural Network and Deep Learning – Home Assignment 1.
 
