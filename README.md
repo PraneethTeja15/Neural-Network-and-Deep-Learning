@@ -93,6 +93,12 @@ logs/fit/
 To launch TensorBoard, run:
 
 tensorboard --logdir logs/fit
+4ans:
+1. Training accuracy generally increases as the model learns; validation accuracy
+   may improve too. A growing gap can indicate overfitting.
+2. TensorBoard can show when training loss keeps falling while validation loss rises,
+   or when training accuracy improves while validation accuracy stops improving.
+3. More epochs give the model more chances to learn, but too many can lead to overfitting.
 
 Then open the local TensorBoard address shown in the terminal.
 
